@@ -30,3 +30,12 @@
 // Will you make it? ---
 
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => mpg * fuelLeft >= distanceToPump
+
+// Is this a triangle? ---
+
+// function isTriangle(a, b, c) {
+//   if (a > 0 && b > 0 && c > 0) {
+//     return a + b > c && b + c > a && c + a > b;
+//   }
+// }
+// console.log(isTriangle(2, 7, 8));
