@@ -25,3 +25,13 @@
 //   }
 //   return max;
 // };
+
+// Sort Numbers --- 7kyu
+
+// function solution(nums) {
+//   if (nums == [] || nums == null) {
+//     return [];
+//   }
+//   let arr = nums.sort((a, b) => a - b);
+//   return arr;
+// }
