@@ -28,3 +28,8 @@
 //     }
 //   }
 // }
+
+// Reversed Strings 8 kyu ---
+
+
+// const solution = str => str.split('').reverse().join('');
