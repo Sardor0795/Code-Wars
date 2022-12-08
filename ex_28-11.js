@@ -12,3 +12,19 @@
 
 //     return +sqNum;
 //   }
+
+// function findOdd(arr) {
+//   let odd = {};
+//   for (let i = 0; i < arr.length; i++) {
+//     if (odd[arr[i]]) {
+//       odd[arr[i]]++;
+//     } else {
+//       odd[arr[i]] = 1;
+//     }
+//   }
+//   for (let key in odd) {
+//     if (odd[key] % 2 !== 0) {
+//       return +key;
+//     }
+//   }
+// }
