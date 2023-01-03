@@ -43,6 +43,12 @@
 
 // console.log(accum("absd"));
 
-// |--4-- Decode the Morse code - 6 kyu
+// |--4-- Decode the Morse code - 6 kyu ('a' + undefined)
 
 // const decodeMorse = (morseCode) => morseCode.split('   ').map(word => word.split(' ').map(code => MORSE_CODE[code]).join('')).join(' ').trim()
+
+// |--5-- Binary Addition - 7 kyu
+
+// const addBinary = (a, b) => (a + b).toString(2);
+
+// console.log(addBinary(5, 5));
