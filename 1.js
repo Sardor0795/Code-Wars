@@ -13,3 +13,9 @@
 // const finalGrade = (exam, projects) => exam > 90 || projects > 10 ? 100 : exam > 75 && projects >= 5 ? 90 : exam > 50 && projects >= 2 ? 75 : 0;
 
 // console.log(finalGrade(70, 5));
+
+// Century From Year --- 8kyu (decade)
+
+// const century = (year) => year % 100 !== 0 ? Math.floor(year / 100) + 1 : year / 100;
+
+// console.log(century(2099));
