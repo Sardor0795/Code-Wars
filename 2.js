@@ -8,7 +8,7 @@
 
 // const XO = str => str.toLowerCase().split('x').length == str.toLowerCase().split('o').length
 
-// |--8-- Fat Fingers - 7 kyu
+// |--8-- Fat Fingers - 6 kyu
 
 // var fatFingers = function (str) {
 //   if (str == null) return null;
