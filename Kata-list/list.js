@@ -3,3 +3,6 @@
 // 3. Mumbling - 7kyu - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/javascript
 // 4. Decode the Morse code - 6 kyu - https://www.codewars.com/kata/54b724efac3d5402db00065e/train/javascript
 // 5. Binary Addition - 7 kyu - https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript
+// 6. Jaden Casing Strings - 7 kyu - https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript
+// 7. Exes and Ohs - 7 kyu - https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript
+// 8. Fat Fingers - 7 kyu - https://www.codewars.com/kata/fat-fingers
